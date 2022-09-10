@@ -2,7 +2,7 @@
 
 Udacity Data Analytics Nanodegree December 2017 - May 2018. Project 4: Analyze A/B Results 
 
-[Click to preview](https://github.com/mohamed3418/A-B-test-/blob/main/Analyze%20ab_test_results_notebook.html)
+[Click to preview](https://github.com/mohamed3418/A-B-test-/blob/main/Analyze%20ab_test_results_notebook-checkpoint.ipynb)
 
 # Project Details
 For this project, I will be working to understand the results of an A/B test run by an e-commerce website. The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
